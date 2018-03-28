@@ -1,0 +1,17 @@
+{
+  "name": "hubot_for_cheering",
+  "version": "1.0.0",
+  "description": "Hubot for cheering up engineers who are stressed against those daily tasks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "coffee-script": "^1.12.7",
+    "generator-hubot": "^0.4.0",
+    "hubot": "^2.19.0",
+    "yo": "^2.0.1"
+  }
+}
