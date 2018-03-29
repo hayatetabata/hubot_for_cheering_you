@@ -9,7 +9,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "heroku-postbuild" : "ecoho \"Built package\""
+    "heroku-postbuild" : "echo \"Built package\""
   },
   "author": "",
   "license": "ISC",
