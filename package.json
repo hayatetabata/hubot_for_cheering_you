@@ -9,7 +9,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "heroku-postbuild" : "echo \"Built package\""
+    "heroku-postbuild" : "./start_hubot.sh"
   },
   "author": "",
   "license": "ISC",
